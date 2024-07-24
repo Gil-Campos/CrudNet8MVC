@@ -19,8 +19,8 @@ This is a simple ASP.NET Core MVC application built using .NET 8. The project de
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Gil-Campos/CrudNet8MVC.git
+   cd your_project_route/CrudNet8MVC
 2. **Build the project:**
     ```bash
     dotnet build
